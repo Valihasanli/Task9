@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|c:\\users\\user\\desktop\\task9\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|c:\\users\\user\\desktop\\task9\\abstract\\abstract\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|solutionrelative:abstract\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|c:\\users\\user\\desktop\\task9\\abstract\\abstract\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|solutionrelative:abstract\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|c:\\users\\user\\desktop\\task9\\abstract\\abstract\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF33F0ED-CC64-49B1-9B46-CB8B798109B6}|Abstract\\Abstract.csproj|solutionrelative:abstract\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Bus.cs",
+              "RelativeDocumentMoniker": "Abstract\\Bus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Bus.cs",
+              "RelativeToolTip": "Abstract\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:35:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Car.cs",
+              "RelativeDocumentMoniker": "Abstract\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Car.cs",
+              "RelativeToolTip": "Abstract\\Car.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:35:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Abstract\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Vehicle.cs",
+              "RelativeToolTip": "Abstract\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:23:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task9\\Abstract\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:23:04.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
